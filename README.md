@@ -130,9 +130,12 @@ User CSS properties and design book cover page
 
 ## Output:
 
+![cover](https://user-images.githubusercontent.com/118707693/215087515-fa09b095-ba81-4441-9d34-8fdc22364056.png)
 
 
 ## HTML Validator:
 
-
+![validator](https://user-images.githubusercontent.com/118707693/215087598-ee97c696-101a-4f30-ab9c-c4bd3022d8d5.png)
+## Result:
+The program for designing book cover using HTML and CSS is executed sucessfully.
 
